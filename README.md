@@ -1,8 +1,3 @@
-# metabase
-Metabase - Docker-compose
+# metabase, nocoDB, postgreSQL
 
-Ver en "localhost:8200"
-
-</span><span>Imagen de como hacer la conexión a la base de datos</span><span><span><span>:
-
-https://github.com/jmlcas/metabase/blob/main/Screenshot_2.png</span><span>)</span>
+estoy juntando varias cosas, para manejo de la informacion, visualizacion grafica de la misma
